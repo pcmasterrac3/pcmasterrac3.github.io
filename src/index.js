@@ -1,7 +1,7 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import Blog from './Blog';
+import React from 'react'
+import ReactDOM from 'react-dom'
+import RouterConfig from './containers/RouteConfig'
 
-import './index.css';
+import './static/styles/index.css'
 
-ReactDOM.render(<Blog />, document.getElementById('root'));
+ReactDOM.render(<RouterConfig />, document.getElementById('root'));
