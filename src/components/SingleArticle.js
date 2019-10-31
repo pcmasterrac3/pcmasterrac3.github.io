@@ -10,7 +10,7 @@ export default function(props) {
 		<>
 			<Header />
 			<Container maxWidth="lg">
-				<Grid container spacing={5} className="mainGrid">
+				<Grid container spacing={5} justify="center" className="mainGrid">
 					<Grid item xs={12} md={8}>
 						<Markdown>
 							{props.location.state.content}

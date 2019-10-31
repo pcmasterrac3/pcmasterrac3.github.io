@@ -4,6 +4,10 @@ body {
 	padding: 0;
 }
 
+img {
+	max-width: 100%;
+}
+
 .mainToolbar {
 	margin-bottom: 32px;
 	background-color: #333;

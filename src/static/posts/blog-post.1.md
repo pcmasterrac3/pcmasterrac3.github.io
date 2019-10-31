@@ -2,7 +2,9 @@
 
 #### April 1, 2020 by [Olivier](/)
 
-This blog post shows a few different types of content that are supported and styled with
+This blog post shows 
+![image](https://cdn.mos.cms.futurecdn.net/MGgQXrciTSF2TbLRS4vR8n.jpg)
+a few different types of content that are supported and styled with
 Material styles. Basic typography, images, and code are all supported.
 You can extend these by modifying `Markdown.js`.
 
