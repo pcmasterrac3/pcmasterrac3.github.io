@@ -8,25 +8,28 @@ import post7 from './blog-post.7.md'
 import post8 from './blog-post.8.md'
 import post9 from './blog-post.9.md'
 import post10 from './blog-post.10.md'
+import post11 from './blog-post.11.md'
 
 const posts = [
 		
 	 {	
 		id: "15f1c808-005a-4b33-ae2c-4f7b26758858",
 		isFeatured: true,
-		feauteredDescription: "This blog post shows a few different types of content that are supported and style...",
-		title: "Sample blog post",
-		date: "Nov 11, 2018",
+		feauteredDescription: "Prvních šest satelitů OneWebu projde testem, když se společnost přiblíží ke skutečné službě.",
+		title: "Satelity OneWeb One-Earth v novém testu zasáhly 400Mbps a 32ms latenci",
+		titleImg: "https://i.imgur.com/lscTsBd.png",
+		date: "August 5, 2019 by Anton",
 		postRef: post1,
 		url: "/15f1c808-005a-4b33-ae2c-4f7b26758858"
 	},
 	
-	 {
+	{
 		id: "f65ad406-679e-418a-a681-325da7344ab6",
 		isFeatured: true,
-		feauteredDescription: "Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus m...",
-		title: "Another blog post",
-		date: "Nov 11, 2018",
+		title: "Recyklace lithiových baterií automobilů je složitější, než si možná myslíte",
+		feauteredDescription: "První krok: Před rozebíráním baterií je třeba najít jiný způsob.",
+		titleImg: "https://i.imgur.com/gu98mva.png",
+		date: "May 15, 2019 by Anton",
 		postRef: post2,
 		url: "/f65ad406-679e-418a-a681-325da7344ab6"
 	},
@@ -93,6 +96,14 @@ const posts = [
 	   feauteredDescription: "",
 	   postRef: post10,
 	   url: "/57f87d14-00af-11ea-a69e-362b9e155667"
+   },
+
+	{
+	   id: "5d64c936-014c-11ea-8d71-362b9e155667",
+	   isFeatured: false,
+	   feauteredDescription: "",
+	   postRef: post11,
+	   url: "/5d64c936-014c-11ea-8d71-362b9e155667"
    }
 ]
 

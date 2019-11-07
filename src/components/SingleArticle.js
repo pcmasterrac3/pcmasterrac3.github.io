@@ -5,20 +5,30 @@ import Markdown from './Markdown'
 import Header from './Header'
 import Footer from './Footer'
 
-export default function(props) {
-	return(
-		<>
-			<Header />
-			<Container maxWidth="lg">
-				<Grid container spacing={5} justify="center" className="mainGrid">
-					<Grid item xs={12} md={8}>
-						<Markdown>
-							{props.location.state.content}
-						</Markdown>
+class SingleArticle extends React.Component {
+	
+	componentDidMount() {
+		window.scrollTo(0, 0);
+	}
+	
+	render() {
+		return(
+			<>
+				<Header />
+				<Container maxWidth="lg">
+					<Grid container spacing={5} justify="center" className="mainGrid">
+						<Grid item xs={12} md={8}>
+							<Markdown>
+								{this.props.location.state.content}
+							</Markdown>
+						</Grid>
 					</Grid>
-				</Grid>
-			</Container>
-			<Footer />
-		</>
-	)
+				</Container>
+				<Footer />
+			</>
+		)
+	}
 }
+
+
+export default SingleArticle

@@ -1,48 +1,26 @@
-## Sample blog post
+## Satelity OneWeb One-Earth v novém testu zasáhly 400Mbps a 32ms latenci
 
-#### April 1, 2020 by [Olivier](/)
+#### August 5, 2019 by Anton
 
-This blog post shows 
-![image](https://cdn.mos.cms.futurecdn.net/MGgQXrciTSF2TbLRS4vR8n.jpg)
-a few different types of content that are supported and styled with
-Material styles. Basic typography, images, and code are all supported.
-You can extend these by modifying `Markdown.js`.
+Prvních šest satelitů OneWebu projde testem, když se společnost přiblíží ke skutečné službě.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum.
-Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+![OneWeb](https://i.imgur.com/lscTsBd.png)
 
-Curabitur blandit tempus porttitor. **Nullam quis risus eget urna mollis** ornare vel eu leo.
-Nullam id dolor id nibh ultricies vehicula ut id elit.
+OneWeb říká, že test jejích družic na nízké oběžné dráze Země přinesl širokopásmové rychlosti více než 400Mbps s průměrnou latencí 32ms.
 
-Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit amet fermentum.
-Aenean lacinia bibendum nulla sed consectetur.
+„Testy, které se konaly v Soulu v Jižní Koreji, představují dosud nejvýznamnější demonstraci konstelace OneWeb a prokazují jeho schopnost poskytovat vynikající širokopásmové připojení kdekoli na planetě,“ řekl OneWeb včera v oznámení.
 
-## Heading
+Společnost uvedla, že je na dobré cestě k vytvoření „plně fungující globální konstelace v roce 2021 a poskytování částečných služeb začátek již v roce 2020.“ Test popsaný včera zahrnoval šest OneWeb satelitů, které byly vypuštěny v únoru. OneWeb říká, že jeho komerční síť „začne s původními 650 satelity a vyroste na 1 980 satelitů“.
 
-Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor.
-Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit.
-Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+Zatímco 32ms latence je průměr, 400Mbps výsledek se zdá být maximální rychlost dodaná během testu. OneWeb uvedl, že jeho test také prokázal „bezproblémové předávání paprsků a satelitů; přesné polohování a sledování antény; [a] živé video v rozlišení až 1080p.“
 
-### Sub-heading
+OneWeb původně sliboval službu na Aljašce „již v roce 2019“, ale do února 2019 společnost uvedla, že do roku 2020 bude schopna poskytovat dema zákazníků.
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+Služba SpaceX a Amazon v dílech
+OneWeb je jednou z několika společností, jejichž cílem je poskytovat globální širokopásmové připojení se sítí satelitů s nízkou úrovní Země. Současné satelitní systémy jsou omezeny střední latencí téměř 600 ms, což z nich činí nevhodnou náhradu kabelových nebo optických systémů. Nižší oběžné dráhy používané společností OneWeb a dalšími společnostmi by však měly vést k latencím, které jsou mnohem blíže kvalitě kabelové televize.
 
-### Sub-heading
+Testování Federální komise pro komunikaci zjistilo, že poskytovatelé optických vláken poskytují střední latence od 12 ms do 20 ms, zatímco kabelové ISP dodávají střední latence od 15 ms do 34 ms. Poskytovatelé DSL byli měřeni při 25 ms až 80 ms. (Viz strana 477 této zprávy FCC ohledně latencí poskytovatele ISP.)
 
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod.
-Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo
-sit amet risus.
+Zatím největším konkurentem OneWebu je SpaceX, který má povolení FCC k vypuštění téměř 12 000 nízko-zemských satelitů. OneWeb obdržel počáteční schválení FCC v červnu 2017, zatímco SpaceX získal své první hlavní schválení FCC v březnu 2018 a v květnu 2019 vypustil 60 satelitů. SpaceX ztratil kontakt se třemi ze 60 satelitů.
 
-- Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-- Donec id elit non mi porta gravida at eget metus.
-- Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1.  Vestibulum id ligula porta felis euismod semper.
-2.  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3.  Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
+Nedávno Amazon odhalil plány na podobnou širokopásmovou satelitní službu a společnost požádala o povolení FCC začátkem tohoto měsíce.

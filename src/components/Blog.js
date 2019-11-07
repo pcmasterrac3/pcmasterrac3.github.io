@@ -89,7 +89,7 @@ class MainBlogPage extends Component {
 										<Hidden xsDown>
 											<CardMedia
 											className="cardMedia"
-											image="https://source.unsplash.com/random"
+											image={post.titleImg}
 											title="Image title"
 											/>
 										</Hidden>
@@ -139,8 +139,7 @@ class MainBlogPage extends Component {
 									About
 								</Typography>
 								<Typography>
-									Etiam porta sem malesuada magna mollis euismod. Cras mattis consectetur purus sit
-									amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+									Tento blog je předním cílem pro technické nadšence všech úrovní dovedností. Ať už stavíte počítač, kupujete notebook nebo se učíte, jak vytvořit roboty s vašimi dětmi, máme k dispozici komplexní redakční zdroje a živou komunitu odborníků, kteří vám pomohou na vaší cestě.
 								</Typography>
 								</Paper>
 							</Grid>
