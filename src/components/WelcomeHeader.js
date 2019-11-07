@@ -27,7 +27,7 @@ export default function() {
 						>
 						<br />
 						<br />
-						React blog about computer hardware
+						React blog about hardware
 						<br />
 						<br />
 						</Typography>

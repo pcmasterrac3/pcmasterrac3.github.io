@@ -6,6 +6,8 @@ import post5 from './blog-post.5.md'
 import post6 from './blog-post.6.md'
 import post7 from './blog-post.7.md'
 import post8 from './blog-post.8.md'
+import post9 from './blog-post.9.md'
+import post10 from './blog-post.10.md'
 
 const posts = [
 		
@@ -69,13 +71,29 @@ const posts = [
 		url: "/182ed279-efa5-4871-909d-90e49ed3f18a"
 	},
 	
-	 {
+	{
 		id: "442abd12-f831-4874-91dd-6c454632915f",
 		isFeatured: false,
 		feauteredDescription: "",
 		postRef: post8,
 		url: "/442abd12-f831-4874-91dd-6c454632915f"
-	}
+	},
+
+	{
+	   id: "b8916ad2-00aa-11ea-8d71-362b9e155667",
+	   isFeatured: false,
+	   feauteredDescription: "",
+	   postRef: post9,
+	   url: "/b8916ad2-00aa-11ea-8d71-362b9e155667"
+   },
+
+	{
+	   id: "57f87d14-00af-11ea-a69e-362b9e155667",
+	   isFeatured: false,
+	   feauteredDescription: "",
+	   postRef: post10,
+	   url: "/57f87d14-00af-11ea-a69e-362b9e155667"
+   }
 ]
 
 export default posts
