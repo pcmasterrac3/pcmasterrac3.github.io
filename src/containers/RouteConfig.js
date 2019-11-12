@@ -8,19 +8,19 @@ export default function() {
 	return(
 		<Fragment>
 			<Router>
-				
-				<Route exact path="/">
-					<MainBlogPage />
-				</Route>
-				
-				<Route path="/about">
-					<About />
-				</Route>
-				<Route path="/:articleId"
-					   render={props => {
-						  return <SingleArticle {...props} />
-					   }}>
-				</Route>
+				<Switch>
+					<Route exact path="/">
+						<MainBlogPage />
+					</Route>
+					<Route path="/about">
+						<About />
+					</Route>
+					<Route path="/:articleId"
+						render={props => {
+							return <SingleArticle {...props} />
+							}}>
+					</Route>
+				</Switch>
 			</Router>
 		</Fragment>
 	)

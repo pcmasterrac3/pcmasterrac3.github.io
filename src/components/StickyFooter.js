@@ -3,9 +3,9 @@ import Container from '@material-ui/core/Container'
 import Typography from '@material-ui/core/Typography'
 import Copyright from './Copyright'
 
-function Footer() {
+export default function() {
 	return(
-		<footer >
+		<footer style={{position: 'fixed', bottom: 0, left: 0, display: 'block', width: '100%'}}>
 			<Container maxWidth="lg">
 				<Typography variant="h6" align="center" gutterBottom>
 					PCMASTERRACE
@@ -16,5 +16,3 @@ function Footer() {
 		
 	)
 }
-
-export default Footer
